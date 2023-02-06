@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	symlinks = false
+	ignorecase = true
+	worktree = C:\\Users\\UZOR\\PycharmProjects\\untitled\\venv\\week5
+[user]
+	name = lasborne
+	email = okeke.michael1995@gmail.com
